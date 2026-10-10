@@ -22,6 +22,13 @@ A collection of my personal osu! skins. Feel free to download and try them out!
 
 ## 📥 Skin List
 
+- **05. [Seoul v9]** — [📥 Download](https://drive.google.com/file/d/17LnHolprWSYXE9tzbWNPQbSJO0ZBQV2Z/view)
+  <details>
+    <summary>🖼️ Click to view preview</summary>
+    <br>
+    <img src="https://cdn.discordapp.com/attachments/566787603064553472/1558500990733254686/seoulv9.png?ex=6acbaaa7&is=6aca5927&hm=b6b99ce251f6ed16f609d8dad921735fa18cf2d744904790308e8d01dc72f4a3&" alt="Preview Skin 2" width="600" />
+  </details>
+
 - **04. [boop]** — [📥 Download](https://drive.google.com/file/d/1zeis0Pl0OWacUQXsO9zwSn54LQUaE67m/view)
   <details>
     <summary>🖼️ Click to view preview</summary>
