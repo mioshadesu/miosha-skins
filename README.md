@@ -22,21 +22,28 @@ A collection of my personal osu! skins. Feel free to download and try them out!
 
 ## 📥 Skin List
 
-- **02. [Rafis HDDT]** — [📥 Download](https://drive.google.com/file/d/19pG1e7BlRWM0JHXWEFGDfffydk3E_Tu1/view)
+- **04. [boop]** — [📥 Download](https://drive.google.com/file/d/1zeis0Pl0OWacUQXsO9zwSn54LQUaE67m/view)
+  <details>
+    <summary>🖼️ Click to view preview</summary>
+    <br>
+    <img src="https://cdn.discordapp.com/attachments/566787603064553472/1558501006860357642/boop.png?ex=6acbaaab&is=6aca592b&hm=3d3f59f50905a200cee3f642c9f77b94a183949b36fa0629bbb678db9c78e993&" alt="Preview Skin 2" width="600" />
+  </details>
+
+- **03. [Rafis HDDT]** — [📥 Download](https://drive.google.com/file/d/19pG1e7BlRWM0JHXWEFGDfffydk3E_Tu1/view)
   <details>
     <summary>🖼️ Click to view preview</summary>
     <br>
     <img src="https://cdn.discordapp.com/attachments/566787603064553472/1558501020198502450/rafishddt.png?ex=6acbaaae&is=6aca592e&hm=62ad574c7ade582ba2ce4aaaceb677ad47a436f1f7b25c8accdd1edb68f575e0&" alt="Preview Skin 2" width="600" />
   </details>
 
-- **01. [Miosha #1]** — [📥 Download](https://drive.google.com/file/d/1dSWW_OpXKE68enARjiYBTCRaZ9Y_4cjs/view)
+- **02. [Miosha]** — [📥 Download](https://drive.google.com/file/d/1dSWW_OpXKE68enARjiYBTCRaZ9Y_4cjs/view)
   <details>
     <summary>🖼️ Click to view preview</summary>
     <br>
     <img src="https://cdn.discordapp.com/attachments/566787603064553472/1558501052288864316/miosha.png?ex=6acbaab6&is=6aca5936&hm=32a57e5dd864fd06e606ce6d84b633573b796baa9ce8fbb82155133d095fe257&" alt="Preview Skin 1" width="600" />
   </details>
 
-- **00. [Stellar into the Galaxy]** — [📥 Download](https://drive.google.com/file/d/1dx2o_tZsW7FDIKrgwN_SE8gYE47THi5I/view)
+- **01. [Stellar into the Galaxy]** — [📥 Download](https://drive.google.com/file/d/1dx2o_tZsW7FDIKrgwN_SE8gYE47THi5I/view)
   <details>
     <summary>🖼️ Click to view preview</summary>
     <br>
