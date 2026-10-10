@@ -75,7 +75,7 @@ A collection of my personal osu! skins. Feel free to download and try them out!
   <details>
     <summary>🖼️ Click to view preview</summary>
     <br>
-    <img src="previews/miosha.png" alt="Preview Skin 1" width="600" />
+    <img src="previews/miosha.png" alt="Preview Skin 1" width="1000" />
   </details>
 
 - **01. [Stellar into the Galaxy]** — [📥 Download](https://drive.google.com/file/d/1dx2o_tZsW7FDIKrgwN_SE8gYE47THi5I/view)
