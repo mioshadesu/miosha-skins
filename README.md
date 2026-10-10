@@ -22,9 +22,26 @@ A collection of my personal osu! skins. Feel free to download and try them out!
 
 ## 📥 Skin List
 
-* **02. [Skin Name #2]** *(Latest Version)* — [📥 Download .ZIP](DOWNLOAD_LINK)
-* **01. [Skin Name #1]** — *Minimalist / Clean gameplay style* — [📥 Download .ZIP](DOWNLOAD_LINK)
-* **00. [Skin Name #0 / Classic]** — [📥 Download .ZIP](DOWNLOAD_LINK)
+- **02. [Skin Name #2]** *(Latest Version)* — [📥 Download .ZIP](DOWNLOAD_LINK)
+  <details>
+    <summary>🖼️ Click to view preview</summary>
+    <br>
+    <img src="URL_DE_TU_CAPTURA.png" alt="Preview Skin 2" width="600" />
+  </details>
+
+- **01. [Skin Name #1]** — *Minimalist / Clean gameplay style* — [📥 Download .ZIP](DOWNLOAD_LINK)
+  <details>
+    <summary>🖼️ Click to view preview</summary>
+    <br>
+    <img src="URL_DE_TU_CAPTURA.png" alt="Preview Skin 1" width="600" />
+  </details>
+
+- **00. [Skin Name #0 / Classic]** — [📥 Download .ZIP](DOWNLOAD_LINK)
+  <details>
+    <summary>🖼️ Click to view preview</summary>
+    <br>
+    <img src="URL_DE_TU_CAPTURA.png" alt="Preview Skin 0" width="600" />
+  </details>
 
 
 ---
