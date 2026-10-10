@@ -22,6 +22,34 @@ A collection of my personal osu! skins. Feel free to download and try them out!
 
 ## 📥 Skin List
 
+- **09. [Bikkoism Alpha Miosha edit]** — [📥 Download](https://drive.google.com/file/d/1CVzbvyNFf1XTttSeDQw6pv0cgURWX8BB/view)
+  <details>
+    <summary>🖼️ Click to view preview</summary>
+    <br>
+    <img src="https://cdn.discordapp.com/attachments/566787603064553472/1558500902162403429/bikkoism.png?ex=6acbaa92&is=6aca5912&hm=dbef5dd77006fb62f39d183ac20dadea200458227a22e48769d6c0b5993a1ade&" alt="Preview Skin 2" width="600" />
+  </details>
+
+- **08. [Prawilosc vJP]** — [📥 Download](https://drive.google.com/file/d/1jKOJuuAL8HIbZ1_jp3pn_21qq0JcZXgG/view)
+  <details>
+    <summary>🖼️ Click to view preview</summary>
+    <br>
+    <img src="https://cdn.discordapp.com/attachments/566787603064553472/1558500928238260296/prawilosc.png?ex=6acbaa98&is=6aca5918&hm=07f4d31b1e2b3244fbf4648c345248c17554334169cbaab888f19b1a3549e288&" alt="Preview Skin 2" width="600" />
+  </details>
+
+- **07. [Seoul v11 Shige Edit]** — [📥 Download](https://drive.google.com/file/d/1DIvsG-lUzglqnvrC1qeXiqy-BJABVo43/view)
+  <details>
+    <summary>🖼️ Click to view preview</summary>
+    <br>
+    <img src="https://cdn.discordapp.com/attachments/566787603064553472/1558500945338572920/seoulv11.png?ex=6acbaa9c&is=6aca591c&hm=dbf7443914c192b46036dd8aa25092bfa68f249ec4f8441fadc230dbc9ac4ca3&" alt="Preview Skin 2" width="600" />
+  </details>
+
+- **06. [aristia himawari]** — [📥 Download](https://drive.google.com/file/d/1VZMfLjH0I-ref8obajTpOLjyuSvrMert/view)
+  <details>
+    <summary>🖼️ Click to view preview</summary>
+    <br>
+    <img src="https://cdn.discordapp.com/attachments/566787603064553472/1558500973004202004/aristiahimawari.png?ex=6acbaaa3&is=6aca5923&hm=f1d5de8fe5d0c33ed942de277831e00db54bc592566c2bdec73a134b8c8fd823&" alt="Preview Skin 2" width="600" />
+  </details>
+
 - **05. [Seoul v9]** — [📥 Download](https://drive.google.com/file/d/17LnHolprWSYXE9tzbWNPQbSJO0ZBQV2Z/view)
   <details>
     <summary>🖼️ Click to view preview</summary>
