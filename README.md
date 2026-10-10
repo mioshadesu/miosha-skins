@@ -82,7 +82,7 @@ A collection of my personal osu! skins. Feel free to download and try them out!
   <details>
     <summary>🖼️ Click to view preview</summary>
     <br>
-    <img src="https://cdn.discordapp.com/attachments/566787603064553472/1558501066499297410/suisei.png?ex=6acbaab9&is=6aca5939&hm=1801197746b27c20f60368d0a8c02f9b738fac6a7dfa459678e5f40dcb4b445f&" alt="Preview Skin 0" width="600" />
+    <img src="previews/suisei.png"600" />
   </details>
 
 
