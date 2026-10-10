@@ -31,5 +31,4 @@ A collection of my personal osu! skins. Feel free to download and try them out!
 <sub align="center">Made with ❤️ by Mioshadesu</sub>
 
   [<img src="https://img.shields.io/badge/Twitch-Mioshadesu-9146FF?style=for-the-badge&logo=twitch&logoColor=white">](https://twitch.tv/mioshadesu)
-  <sub>Hecho con 💖 para la comunidad de osu!</sub>
 </div>
