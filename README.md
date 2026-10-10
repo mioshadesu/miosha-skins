@@ -5,7 +5,7 @@
 *Una colección personal de skins para osu! optimizadas para claridad, jugabilidad y estética.*
 
 [<img src="https://img.shields.io/badge/Twitch-Mioshadesu-9146FF?style=for-the-badge&logo=twitch&logoColor=white" width="140">](https://twitch.tv/mioshadesu)
-[<img src="https://img.shields.io/badge/TikTok-@mioshadesu-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="140">](https://tiktok.com/@miiosha)
+[<img src="https://img.shields.io/badge/TikTok-@miiosha-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="140">](https://tiktok.com/@miiosha)
 
 </div>
 
