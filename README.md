@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="URL_DE_TU_BANNER.png" alt="Header Banner" width="100%" />
+  <img src="blob:https://docs.google.com/1b386f18-639d-4ae4-8462-ce1d59eb9b31" alt="Header Banner" width="100%" />
 </div>
 
 
