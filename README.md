@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="URL_DE_TU_BANNER.png" alt="Header Banner" width="100%" />
+</div>
+
+
+<div align="center">
 
 # ✨ Miosha's osu! Skins ✨
 
