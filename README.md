@@ -33,6 +33,39 @@
 
 <div align="center">
 
+# 🎨 Miosha's osu! Skins
+
+A collection of my personal osu! skins. Feel free to download and try them out!
+
+* **Discord:** [Join my community](YOUR_DISCORD_LINK)
+* **Twitch:** [twitch.tv/mioshadesu](https://twitch.tv/mioshadesu)
+* **TikTok:** [@mioshadesu](https://tiktok.com/@mioshadesu)
+
+---
+
+## 📌 Important Notes
+* Skins are ordered from newest to oldest.
+* If you find any broken download links or missing elements, please open an Issue or contact me.
+
+---
+
+## 📥 Skin List
+
+* **02. [Skin Name #2]** *(Latest Version)* — [📥 Download .ZIP](DOWNLOAD_LINK)
+* **01. [Skin Name #1]** — *Minimalist / Clean gameplay style* — [📥 Download .ZIP](DOWNLOAD_LINK)
+* **00. [Skin Name #0 / Classic]** — [📥 Download .ZIP](DOWNLOAD_LINK)
+
+---
+
+## 🛠️ How to Install
+1. Download the `.zip` or `.osk` file of your choice.
+2. Open **osu!**.
+3. Drag and drop the downloaded file directly onto your game window.
+4. Enjoy!
+
+---
+<sub align="center">Made with ❤️ by Mioshadesu</sub>
+
   [<img src="https://img.shields.io/badge/Twitch-Mioshadesu-9146FF?style=for-the-badge&logo=twitch&logoColor=white">](https://twitch.tv/mioshadesu)
   <sub>Hecho con 💖 para la comunidad de osu!</sub>
 </div>
