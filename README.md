@@ -36,11 +36,11 @@ A collection of my personal osu! skins. Feel free to download and try them out!
     <img src="URL_DE_TU_CAPTURA.png" alt="Preview Skin 1" width="600" />
   </details>
 
-- **00. [Skin Name #0 / Classic]** — [📥 Download .ZIP](DOWNLOAD_LINK)
+- **00. [Stellar into the Galaxy]** — [📥 Download](https://drive.google.com/file/d/1dx2o_tZsW7FDIKrgwN_SE8gYE47THi5I/view)
   <details>
     <summary>🖼️ Click to view preview</summary>
     <br>
-    <img src="URL_DE_TU_CAPTURA.png" alt="Preview Skin 0" width="600" />
+    <img src="https://cdn.discordapp.com/attachments/566787603064553472/1558501066499297410/suisei.png?ex=6acbaab9&is=6aca5939&hm=1801197746b27c20f60368d0a8c02f9b738fac6a7dfa459678e5f40dcb4b445f&" alt="Preview Skin 0" width="600" />
   </details>
 
 
