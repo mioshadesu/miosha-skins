@@ -22,18 +22,18 @@ A collection of my personal osu! skins. Feel free to download and try them out!
 
 ## 📥 Skin List
 
-- **02. [Skin Name #2]** *(Latest Version)* — [📥 Download .ZIP](DOWNLOAD_LINK)
+- **02. [Rafis HDDT]** — [📥 Download](https://drive.google.com/file/d/19pG1e7BlRWM0JHXWEFGDfffydk3E_Tu1/view)
   <details>
     <summary>🖼️ Click to view preview</summary>
     <br>
-    <img src="URL_DE_TU_CAPTURA.png" alt="Preview Skin 2" width="600" />
+    <img src="https://cdn.discordapp.com/attachments/566787603064553472/1558501020198502450/rafishddt.png?ex=6acbaaae&is=6aca592e&hm=62ad574c7ade582ba2ce4aaaceb677ad47a436f1f7b25c8accdd1edb68f575e0&" alt="Preview Skin 2" width="600" />
   </details>
 
-- **01. [Skin Name #1]** — *Minimalist / Clean gameplay style* — [📥 Download .ZIP](DOWNLOAD_LINK)
+- **01. [Miosha #1]** — [📥 Download](https://drive.google.com/file/d/1dSWW_OpXKE68enARjiYBTCRaZ9Y_4cjs/view)
   <details>
     <summary>🖼️ Click to view preview</summary>
     <br>
-    <img src="URL_DE_TU_CAPTURA.png" alt="Preview Skin 1" width="600" />
+    <img src="https://cdn.discordapp.com/attachments/566787603064553472/1558501052288864316/miosha.png?ex=6acbaab6&is=6aca5936&hm=32a57e5dd864fd06e606ce6d84b633573b796baa9ce8fbb82155133d095fe257&" alt="Preview Skin 1" width="600" />
   </details>
 
 - **00. [Stellar into the Galaxy]** — [📥 Download](https://drive.google.com/file/d/1dx2o_tZsW7FDIKrgwN_SE8gYE47THi5I/view)
