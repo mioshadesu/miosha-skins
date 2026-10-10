@@ -25,15 +25,14 @@
 
 ---
 
-## 🛠️ ¿Cómo instalar una skin?
+### 🎮 Skins Disponibles
 
-1. Descarga el archivo `.zip` de la skin que prefieras haciendo clic en el botón de **📥 .ZIP**.
-2. Abre tu juego **osu!**.
-3. Arrastra y suelta el archivo descargado directamente sobre la ventana abierta del juego (o haz doble clic sobre el archivo `.zip`).
-4. ¡Listo! El juego importará la skin automáticamente.
-
----
+| Vista Previa | Skin | Tamaño | Descarga |
+| :---: | :--- | :---: | :---: |
+| <img src="URL_CAPTURAMINI.png" width="150"/> | **Mi Skin Principal**<br><sub>Versión 1.0</sub> | 45 MB | [📥 Descargar](ENLACE) |
 
 <div align="center">
+
+  [<img src="https://img.shields.io/badge/Twitch-Mioshadesu-9146FF?style=for-the-badge&logo=twitch&logoColor=white">](https://twitch.tv/mioshadesu)
   <sub>Hecho con 💖 para la comunidad de osu!</sub>
 </div>
